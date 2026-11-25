@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <app key="paysum" version="100">
+    <word key="__app_paysum" js="0">PaySum</word>
+    <word key="module__paysum_gateway" js="0">PaySum Gateway</word>
+    <word key="gateway__paysum" js="0">PaySum</word>
+    <word key="paysum_api_key" js="0">PaySum API key</word>
+    <word key="paysum_webhook_secret" js="0">Webhook signing secret</word>
+  </app>
+</language>
